@@ -1,0 +1,19 @@
+
+li{
+    transition: 0.15s;
+}
+
+
+#title_{
+    top: 18%;
+    margin-left: 30%;
+    position: absolute;
+    font-size: 290%;
+    color: black;
+}
+
+li:hover{
+    text-decoration: underline;
+    background: #C0C0C0;
+    font-size: 120%;
+}
